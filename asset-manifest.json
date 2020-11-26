@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Netart/static/css/main.93c5360f.chunk.css",
+    "main.js": "/Netart/static/js/main.25f13481.chunk.js",
+    "main.js.map": "/Netart/static/js/main.25f13481.chunk.js.map",
+    "runtime-main.js": "/Netart/static/js/runtime-main.9c24b6ee.js",
+    "runtime-main.js.map": "/Netart/static/js/runtime-main.9c24b6ee.js.map",
+    "static/js/2.30084139.chunk.js": "/Netart/static/js/2.30084139.chunk.js",
+    "static/js/2.30084139.chunk.js.map": "/Netart/static/js/2.30084139.chunk.js.map",
+    "static/js/3.d40d5de8.chunk.js": "/Netart/static/js/3.d40d5de8.chunk.js",
+    "static/js/3.d40d5de8.chunk.js.map": "/Netart/static/js/3.d40d5de8.chunk.js.map",
+    "index.html": "/Netart/index.html",
+    "static/css/main.93c5360f.chunk.css.map": "/Netart/static/css/main.93c5360f.chunk.css.map",
+    "static/js/2.30084139.chunk.js.LICENSE.txt": "/Netart/static/js/2.30084139.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9c24b6ee.js",
+    "static/js/2.30084139.chunk.js",
+    "static/css/main.93c5360f.chunk.css",
+    "static/js/main.25f13481.chunk.js"
+  ]
+}
